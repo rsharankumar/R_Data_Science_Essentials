@@ -1,0 +1,10 @@
+1 1 2 C D
+2 2 3 A B C
+3 3 3 A B F
+4 4 4 A C D F
+5 5 3 A B F
+6 6 1 E
+7 7 3 A B F
+8 8 3 D G H
+9 9 2 B F
+10 10 3 A G H
